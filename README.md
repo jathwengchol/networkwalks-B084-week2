@@ -19,15 +19,15 @@ intitle:"webcamXP" inurl:8080
 
 This topology shows 2 VPCs connected together.
 
-- VPC 1: 10.0.0.0/16
+VPC 1: 10.0.0.0/16
     - Subnet 10.0.1.0/24
     - Subnet 10.0.2.0/24
-- VPC 2: 10.1.0.0/16
+VPC 2: 10.1.0.0/16
     - Subnet 10.1.1.0/24
     - Subnet 10.1.2.0/24
 
 ![Topology](screenshot1/topology.jpg)
 
 ## 3. Files in this Repo
-- Report.docx - https://docs.google.com/document/d/1oAyWgRnOu0WW9CjSqxyudeaRFhkQ2-E4RAItYiHylG8/edit?usp=sharing
-- Google-Dorking.docx - https://docs.google.com/document/d/1-7PK9D4UAa_IkmTrEVqZWSQdxkXhP03fRFSnxouwCHo/edit?usp=sharing
+Report.docx: https://docs.google.com/document/d/1oAyWgRnOu0WW9CjSqxyudeaRFhkQ2-E4RAItYiHylG8/edit?usp=sharing
+Google-Dorking.docx: https://docs.google.com/document/d/1-7PK9D4UAa_IkmTrEVqZWSQdxkXhP03fRFSnxouwCHo/edit?usp=sharing
