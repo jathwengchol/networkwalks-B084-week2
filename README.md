@@ -1,4 +1,4 @@
-7# Week 2 tasks Google Dorking & Network Topology
+7# Week 2 tasks Google Dorking & Zenmap
 Name: Jathweng Chol
 # 1. Google Dorking - Live Cameras
 Google Dork Used:
@@ -15,9 +15,9 @@ intitle:"webcamXP" inurl:8080
 | 9 | intitle:"webcamXP" inurl:8080 | https://www.insecam.org/en/view/1012155/ |
 | 10 | intitle:"webcamXP" inurl:8080 | https://www.insecam.org/en/view/1012241/ |
 
-## 2. Network Topology
+## Zenmap
 
-This topology shows 2 VPCs connected together.
+I got topology that shows 2 VPCs connected together.
 
 VPC 1: 10.0.0.0/16
     - Subnet 10.0.1.0/24
