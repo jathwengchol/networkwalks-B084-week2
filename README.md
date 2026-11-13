@@ -3,7 +3,7 @@ Name: Jathweng Chol
 # 1. Google Dorking - Live Cameras
 Google Dork Used:
 intitle:"webcamXP" inurl:8080
- No. | Google Dork Used | Link |
+## Links
 | 1 | intitle:"webcamXP" inurl:8080 | https://www.insecam.org/en/view/812476/ |
 | 2 | intitle:"webcamXP" inurl:8080 | https://www.insecam.org/en/view/764128/ |
 | 3 | intitle:"webcamXP" inurl:8080 | https://www.insecam.org/en/view/891134/ |
