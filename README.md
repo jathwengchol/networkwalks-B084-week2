@@ -29,5 +29,5 @@ This topology shows 2 VPCs connected together.
 ![Topology](screenshot1/topology.jpg)
 
 ## 3. Files in this Repo
-- Report.docx - https://docs.google.com/document/d/1oAyWgRnOu0WW9CjSqxyudeaRFhkQ2-E4RAItYiHylG8/edit?usp=sharing
+- Report.docx - https://docs.google.com/document/d/1oAyWgRnOu0WW9CjSqxyudeaRFhkQ2-E4RAItYiHylG8/edit?usp=sharings
 - Google-Dorking.docx - https://docs.google.com/document/d/1-7PK9D4UAa_IkmTrEVqZWSQdxkXhP03fRFSnxouwCHo/edit?usp=sharing
